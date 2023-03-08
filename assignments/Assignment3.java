@@ -6,7 +6,7 @@ public class Assignment3 {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		//Scanner scanner = new Scanner(System.in);
+//		Weekday Calculations
 		System.out.println("Please Enter the Day");
 		
 		String day = scanner.nextLine();

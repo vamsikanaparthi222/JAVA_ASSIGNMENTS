@@ -7,6 +7,8 @@ public class Assignment2 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
+//		Marks Calculation
+		
 		System.out.println("Please Enter the Student Marks");
 		int marks = scanner.nextInt();
 		if(marks <35) {
